@@ -66,6 +66,19 @@ body{
   box-shadow: 0 6px 20px rgba(2,6,23,0.06);
 }
 
+/* responsive grid for gallery */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 /* gallery grid */
 .gallery-grid{
   display:grid;

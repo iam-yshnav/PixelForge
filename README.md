@@ -1,7 +1,7 @@
-Women Empowerment Dashboard (React + Flask)
+HackP Task Dashboard (React + Flask)
 ==========================================
 
-This project is a frontend + backend demo re-themed for Women Empowerment.
+This project is a frontend + backend Task Demo using React + Flask.
 It includes:
   - Login (JWT)
   - Responsive dashboard with theme toggle (light/dark)

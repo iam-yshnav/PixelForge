@@ -13,7 +13,7 @@ export default function Dashboard({ token, onLogout, user }) {
         <div className="brand">
           <div style={{width:44, height:44, borderRadius:10, background:'linear-gradient(135deg,var(--accent),var(--accent-2))'}}></div>
           <div>
-            <h1 style={{margin:0}}>Women Empowerment Dashboard</h1>
+            <h1 style={{margin:0}}>HackP-Task Dashboard</h1>
             <small className="small-muted">Welcome, {user || 'user'}</small>
           </div>
         </div>
