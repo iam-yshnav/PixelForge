@@ -1,4 +1,4 @@
-HackP Task Dashboard (React + Flask)
+PixelForge (React + Flask)
 ==========================================
 
 This project is a frontend + backend Task Demo using React + Flask.
